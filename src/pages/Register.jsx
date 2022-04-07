@@ -32,7 +32,7 @@ const Aggrement = styled.span`
     font-size: 12px;
     margin: 20px 0px;
 `
-const Button = styled.Button`
+const Button = styled.button`
     width: 40%;
     border: none;
     padding: 15px 20px;
@@ -45,7 +45,7 @@ const Register = () => {
   return (
     <Container>
         <Wrapper>
-            <Title>Create An Account</Title>
+            <Title>CREATE AN ACCOUNT</Title>
             <Form>
                 <Input placeholder="name"/>
                 <Input placeholder="last name"/>
