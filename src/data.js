@@ -2,7 +2,7 @@ export const sliderItems = [
     {
         id: 1,
         img: "./assets/mens-2.png",
-        title: "SHIRT SALE",
+        title: "T-SHIRT SALE",
         desc: "DON'T COMPROMISE ON STYLE! GET 30% OFF FROM NEW ARRIVALS.",
         bg: "f5fafd",
     },
@@ -27,7 +27,7 @@ export const categories = [
     {
         id:1,
         img: "./assets/categories-3.jpeg",
-        title: "SHIRT STYLE",
+        title: "T-SHIRT STYLE",
     },
     {
         id:2,
